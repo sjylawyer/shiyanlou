@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import sys
 b = sys.argv[1]
+a=int(b)
 if int(0)<=a<10:
 	print("you belong to kids")
 elif 10<=a<18:
